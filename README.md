@@ -21,22 +21,27 @@
     * Handles
     * Threads
 
-## Start Reading and analyzing malware source codes:
-  * What is being performed?
-  * How is it being performed?
-  * Are there alternative techniques?
-  * Can we replicate the API usage?
+## Malware Source Code Analysis
+* What is being performed?
+* How is it being performed?
+* Are there alternative techniques?
+* Can we replicate the API usage?
 
 ## Reverse Engineering and Pwn
+### Foundational Learning
 * [pwn.college](https://pwn.college/)
-* [Z0F Reverse Engineering Course](https://www.debugxp.com/posts/RECourse/)
 * [Reverse Engineering for Beginners](https://beginners.re/)
+* [Z0F Reverse Engineering Course](https://www.debugxp.com/posts/RECourse/)
 * [Nightmare](https://guyinatuxedo.github.io/00-intro/index.html)
+
+### Applied Reverse Engineering
+* [wetw0rk](https://wetw0rk.github.io/)
 * [dayzerosec Starter Guide](https://dayzerosec.com/blog/2024/07/11/getting-started-2024.html)
+* [Wargames by ret2](https://wargames.ret2.systems/)
+
+### Advanced / Kernel Exploitation
 * [HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
 * [OSED Resource Collection](https://github.com/nop-tech/OSED/tree/main)
-* [wetw0rk](https://wetw0rk.github.io/)
-* [Wargames by ret2](https://wargames.ret2.systems/)
 
 ## Hands-On Practice
 * [crackmes.one](https://crackmes.one/)
@@ -45,8 +50,8 @@
 * [Exploit Education](https://exploit.education/)
 
 ## Notable Resources
-* [Lseqt - Goated Youtube Channel](https://www.youtube.com/@Lsecqt)
-* [cr0w - Another goat](https://www.youtube.com/@crr0ww)
+* [Lseqt - YouTube Channel](https://www.youtube.com/@Lsecqt)
+* [cr0w - YouTube](https://www.youtube.com/@crr0ww)
 * [VX-API](https://github.com/vxunderground/VX-API)
 * [VXUG Papers](https://github.com/vxunderground/VXUG-Papers)
 * [Filesec](https://filesec.io/)
