@@ -35,16 +35,16 @@ Try to replicate a malware behavior.
 ## Reverse Engineering and Pwn
 ### Foundational Learning
 * [OpenSecurityTraining2 – x86_64 Assembly](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about)
-  Industry-standard course for understanding assembly, memory models, and the architecture behind reverse engineering.
+  -> Industry-standard course for understanding assembly, memory models, and the architecture behind reverse engineering.
  
 * [pwn.college](https://pwn.college/)
-  Hands-on platform for learning memory corruption, shellcoding, and RE fundamentals.
+  -> Hands-on platform for learning memory corruption, shellcoding, and RE fundamentals.
 
 * [Z0F Reverse Engineering Course](https://www.debugxp.com/posts/RECourse/)
-  A Windows-focused RE course using tools like x64dbg, PE-bear, and Ghidra. Includes crackmes and walkthroughs.
+  -> A Windows-focused RE course using tools like x64dbg, PE-bear, and Ghidra. Includes crackmes and walkthroughs.
 
 * [Nightmare](https://guyinatuxedo.github.io/00-intro/index.html)
-  Linux-focused binary exploitation tutorial series focused on memory bugs and control flow.
+  -> Linux-focused binary exploitation tutorial series focused on memory bugs and control flow.
 
 ### Applied Reverse Engineering
 * [wetw0rk](https://wetw0rk.github.io/)
@@ -54,10 +54,10 @@ Try to replicate a malware behavior.
 ### Advanced / Kernel Exploitation
 
 * [HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
-  Learn kernel-mode exploitation using a custom vulnerable Windows driver.
+  -> Learn kernel-mode exploitation using a custom vulnerable Windows driver.
 
 * [OSED Resource Collection](https://github.com/nop-tech/OSED/tree/main)
-  Materials for OffSec’s Windows Exploit Development certification.
+  -> Materials for OffSec’s Windows Exploit Development certification.
 
 ## Hands-On Practice
 
@@ -87,5 +87,5 @@ Trusted tools, references, and learning hubs in malware and reverse engineering.
 
 ## Contributors
 Thanks to the following people:
-* [@Lattice23](https://github.com/Lattice23) – Helped with resources and structure
+* [@Lattice23](https://github.com/Lattice23) -> Helped with resources and structure
 
