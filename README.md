@@ -32,13 +32,29 @@ Understanding C is essential for anyone serious about malware development, rever
 
 You don’t need to buy expensive courses to get started. I learned C using [**Codecademy**](https://www.codecademy.com/learn/paths/c) because of how interactive and beginner-friendly it is. If you want a completely free alternative, [learn-c.org](https://www.learn-c.org/) is a great browser-based site with hands-on examples.
 
-
 ## First project
 Try to replicate a malware behavior.
 * What is being performed?
 * How is it being performed?
 * Are there alternative techniques?
 * Can we replicate the API usage?
+
+## Malware Resources
+Trusted tools, references, and learning hubs in malware
+
+* [Lseqt – YouTube Channel](https://www.youtube.com/@Lsecqt)
+* [cr0w – YouTube](https://www.youtube.com/@crr0ww)
+* [VX-API](https://github.com/vxunderground/VX-API)
+* [VXUG Papers](https://github.com/vxunderground/VXUG-Papers)
+* [Filesec](https://filesec.io/)
+* [MalAPI](https://malapi.io/)
+* [LOTS Project](https://lots-project.com/)
+* [EDR Telemetry](https://www.edr-telemetry.com/)
+* [Maldev Links by CodeXTF2](https://github.com/CodeXTF2/maldev-links)
+* [mr.d0x](https://mrd0x.com/)
+* [pre.empt](https://pre.empt.dev/)
+* [0xRick](https://0xrick.github.io/misc/c2/)
+* [Capt.Meelo](https://captmeelo.com/)
 
 ## Reverse Engineering and Pwn Resources
 ### Foundational Learning
@@ -67,8 +83,7 @@ Try to replicate a malware behavior.
 * [OSED Resource Collection](https://github.com/nop-tech/OSED/tree/main)
   -> Materials for OffSec’s Windows Exploit Development certification.
 
-## Hands-On Practice
-
+### Hands-On Practice
 Challenge-based platforms and exercises to reinforce your skills.
 
 * [crackmes.one](https://crackmes.one/)
@@ -76,27 +91,31 @@ Challenge-based platforms and exercises to reinforce your skills.
 * [PicoCTF](https://picoctf.org/)
 * [Exploit Education](https://exploit.education/)
 
-## Malware Resources
-Trusted tools, references, and learning hubs in malware
-
-* [Lseqt – YouTube Channel](https://www.youtube.com/@Lsecqt)
-* [cr0w – YouTube](https://www.youtube.com/@crr0ww)
-* [VX-API](https://github.com/vxunderground/VX-API)
-* [VXUG Papers](https://github.com/vxunderground/VXUG-Papers)
-* [Filesec](https://filesec.io/)
-* [MalAPI](https://malapi.io/)
-* [LOTS Project](https://lots-project.com/)
-* [EDR Telemetry](https://www.edr-telemetry.com/)
-* [Maldev Links by CodeXTF2](https://github.com/CodeXTF2/maldev-links)
-* [mr.d0x](https://mrd0x.com/)
-* [pre.empt](https://pre.empt.dev/)
-* [0xRick](https://0xrick.github.io/misc/c2/)
-* [Capt.Meelo](https://captmeelo.com/)
-
 ## Miscellaneous
 * [VXLab Book Archive](https://github.com/vxlabinfo/lib/tree/master)
 
 ## Contributors
 Thanks to the following people:
 * [@Lattice23](https://github.com/Lattice23) -> Helped with resources and structure
+
+
+## Why include Reverse Engineering in a Malware Dev collection?
+Reverse engineering is essential if you want to build effective, undetectable malware.
+
+As a developer, you’re not just writing code, you’re trying to understand how defenders will analyze and detect your tools. Reverse engineering gives you insight into how detection works and how to subvert it.
+
+It helps you:
+* Recognize what patterns and behaviors AV/EDR solutions flag
+* Modify shellcode, payloads, and loaders at the byte level
+* Debug and fix your tools when something silently fails in memory
+* Understand the entire kill chain from both red and blue perspectives
+
+### Example from the Field:
+In one public lab write-up, a researcher successfully evaded a modern EDR by:
+* Using **ThreatCheck** and **Ghidra** to identify flagged byte patterns in a payload
+* Modifying a **XOR shellcode decryption routine** to alter memory artifacts
+* Customizing the C2 profile to strip suspicious strings
+* Building a **C++ loader** to bypass sandbox and static detection
+
+These types of evasion techniques rely heavily on reverse engineering skills, knowing how your code looks under the hood, how defenders analyze it, and how to break that process.
 
