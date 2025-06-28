@@ -29,10 +29,9 @@
 
 ## Reverse Engineering and Pwn
 ### Foundational Learning
-* [pwn.college](https://pwn.college/)
-* [Reverse Engineering for Beginners](https://beginners.re/)
-* [Z0F Reverse Engineering Course](https://www.debugxp.com/posts/RECourse/)
-* [Nightmare](https://guyinatuxedo.github.io/00-intro/index.html)
+* [pwn.college](https://pwn.college/) - Hands-on platform for learning memory corruption, shellcoding, and RE fundamentals.
+* [Z0F Reverse Engineering Course](https://www.debugxp.com/posts/RECourse/) - A Windows-focused RE course with tools like x64dbg, PE-bear, and Ghidra. Includes crackmes and guided labs.
+* [Nightmare](https://guyinatuxedo.github.io/00-intro/index.html) - A Linux-based binary exploitation and RE tutorial series focused on memory bugs and control flow.
 
 ### Applied Reverse Engineering
 * [wetw0rk](https://wetw0rk.github.io/)
@@ -63,4 +62,10 @@
 
 ## Miscellaneous
 * [VXLab Book Archive](https://github.com/vxlabinfo/lib/tree/master)
+
+## Contributors
+Thanks to the following people:
+- [@Lattice23](https://github.com/Lattice23) – Helped with resources and structure
+
+
 
