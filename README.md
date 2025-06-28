@@ -2,9 +2,7 @@
 A curated roadmap and resource archive for learning malware development, reverse engineering, and low-level system concepts. Whether you're aiming to analyze malware, develop offensive tooling, or understand the system from the inside out, this collection gives you a solid foundation and learning path.
 
 ## Computer Science Fundamentals
-
 Understand how computers and systems operate at a fundamental level.
-
 * How computers work
 * Numeric systems (binary, hex, decimal)
 * How memory and CPU work
@@ -16,11 +14,6 @@ Understand how computers and systems operate at a fundamental level.
 Build core knowledge around system internals, cryptography, and debugging.
 
 * Obfuscation, encryption, decryption, and common algorithms
-* x64 Assembly
-
-  * [OpenSecurityTraining2 – x86\_64 Assembly](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about)
-  * TryHackMe
-  * [Godbolt Compiler Explorer](https://godbolt.org/)
 * Learn to use debuggers (e.g., x64dbg)
 
 ## Windows Internals
@@ -54,15 +47,9 @@ Try to replicate a malware behavior.
   Linux-focused binary exploitation tutorial series focused on memory bugs and control flow.
 
 ### Applied Reverse Engineering
-
 * [wetw0rk](https://wetw0rk.github.io/)
-  Blog covering process injection, shellcode loaders, and offensive tool development.
-
 * [dayzerosec Starter Guide](https://dayzerosec.com/blog/2024/07/11/getting-started-2024.html)
-  Intro guide to RE, vulnerability research, and bug hunting.
-
 * [Wargames by ret2](https://wargames.ret2.systems/)
-  CTF-style challenges for practicing reversing and binary exploitation.
 
 ### Advanced / Kernel Exploitation
 
@@ -71,8 +58,6 @@ Try to replicate a malware behavior.
 
 * [OSED Resource Collection](https://github.com/nop-tech/OSED/tree/main)
   Materials for OffSec’s Windows Exploit Development certification.
-
----
 
 ## Hands-On Practice
 
@@ -83,10 +68,7 @@ Challenge-based platforms and exercises to reinforce your skills.
 * [PicoCTF](https://picoctf.org/)
 * [Exploit Education](https://exploit.education/)
 
----
-
 ## Notable Resources
-
 Trusted tools, references, and learning hubs in malware and reverse engineering.
 
 * [Lseqt – YouTube Channel](https://www.youtube.com/@Lsecqt)
@@ -100,13 +82,8 @@ Trusted tools, references, and learning hubs in malware and reverse engineering.
 * [Maldev Links by CodeXTF2](https://github.com/CodeXTF2/maldev-links)
 * [mr.d0x](https://mrd0x.com/)
 
----
-
 ## Miscellaneous
-
 * [VXLab Book Archive](https://github.com/vxlabinfo/lib/tree/master)
-
----
 
 ## Contributors
 Thanks to the following people:
