@@ -25,6 +25,14 @@ Deep dive into how the Windows OS works under the hood.
     * Handles
     * Threads
 
+## Learn C (or C++, I personally prefer C)
+Understanding C is essential for anyone serious about malware development, reverse engineering, or low-level systems work. C is close to the metal, giving you control over memory, system calls, and how programs interact with the OS—exactly what you need to build or dissect offensive tools.
+
+> *“I personally prefer C because it maps directly to how machines work. It’s foundational in both malware development and reverse engineering. C helps you understand how exploits happen, how processes are structured, and how the Windows API is used under the hood.”*
+
+You don’t need to buy expensive courses to get started. I learned C using **Codecademy** because of how interactive and beginner-friendly it is. If you want a completely free alternative, [learn-c.org](https://www.learn-c.org/) is a great browser-based site with hands-on examples.
+
+
 ## First project
 Try to replicate a malware behavior.
 * What is being performed?
