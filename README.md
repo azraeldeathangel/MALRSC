@@ -1,4 +1,4 @@
-# MRASC – Offensive Research and Study Collection
+# ORASC – Offensive Research and Study Collection
 A curated roadmap and resource archive for learning malware development, reverse engineering, and low-level system concepts. Whether you're aiming to analyze malware, develop offensive tooling, or understand the system from the inside out, this collection gives you a solid foundation and learning path.
 
 ## [Computer Science Fundamentals](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
