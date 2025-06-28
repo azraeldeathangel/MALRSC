@@ -25,7 +25,7 @@ Deep dive into how the Windows OS works under the hood.
     * Handles
     * Threads
 
-## Malware Source Code Analysis
+## First project
 Try to replicate a malware behavior.
 * What is being performed?
 * How is it being performed?
