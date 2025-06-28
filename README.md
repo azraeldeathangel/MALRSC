@@ -2,7 +2,6 @@
 * How computers work
 * Numeric systems (binary, hex, decimal)
 * How memory and CPU work
-
   * Reference: [pwn.college](https://pwn.college/)
 * High-level understanding of machine code
 
@@ -23,18 +22,17 @@
     * Handles
     * Threads
 
-## Tips for Reimplementing Malware
-* Read and analyze malware source code:
+## Start Reading and analyzing malware source codes:
   * What is being performed?
   * How is it being performed?
   * Are there alternative techniques?
   * Can we replicate the API usage?
 
 ## Reverse Engineering and Pwn
-* [Nightmare (Binary Exploitation)](https://guyinatuxedo.github.io/00-intro/index.html)
 * [pwn.college](https://pwn.college/)
 * [Reverse Engineering for Beginners](https://beginners.re/)
 * [Z0F Reverse Engineering Course](https://www.debugxp.com/posts/RECourse/)
+* [Nightmare](https://guyinatuxedo.github.io/00-intro/index.html)
 * [dayzerosec Starter Guide](https://dayzerosec.com/blog/2024/07/11/getting-started-2024.html)
 * [HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
 * [OSED Resource Collection](https://github.com/nop-tech/OSED/tree/main)
@@ -48,8 +46,8 @@
 * [Exploit Education](https://exploit.education/)
 
 ## Notable Resources
-* [Lseqt - Memory Lane](https://gatari.dev/posts/a-trip-down-memory-lane/)
-* [cr0w YouTube](https://www.youtube.com/@crr0ww)
+* [Lseqt - Goated Youtube Channel](https://www.youtube.com/@Lsecqt)
+* [cr0w - Another goat](https://www.youtube.com/@crr0ww)
 * [VX-API](https://github.com/vxunderground/VX-API)
 * [VXUG Papers](https://github.com/vxunderground/VXUG-Papers)
 * [Filesec](https://filesec.io/)
