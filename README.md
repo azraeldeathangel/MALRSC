@@ -19,7 +19,7 @@ Build core knowledge around system internals, cryptography, and debugging.
 ## Windows Internals
 Deep dive into how the Windows OS works under the hood.
 
-* Use **Windows Internals Part 1** as a reference
+* Use [Windows Internals Part 1](https://empyreal96.github.io/nt-info-depot/Windows-Internals-PDFs/Windows%20System%20Internals%207e%20Part%201.pdf) as a reference
   * Focus on the first three chapters:
     * Processes
     * Handles
