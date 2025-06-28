@@ -36,15 +36,15 @@ Try to replicate a malware behavior.
 ### Foundational Learning
 * [OpenSecurityTraining2 – x86_64 Assembly](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about)
   -> Industry-standard course for understanding assembly, memory models, and the architecture behind reverse engineering.
- 
-* [pwn.college](https://pwn.college/)
-  -> Hands-on platform for learning memory corruption, shellcoding, and RE fundamentals.
 
 * [Z0F Reverse Engineering Course](https://www.debugxp.com/posts/RECourse/)
   -> A Windows-focused RE course using tools like x64dbg, PE-bear, and Ghidra. Includes crackmes and walkthroughs.
-
+  
 * [Nightmare](https://guyinatuxedo.github.io/00-intro/index.html)
   -> Linux-focused binary exploitation tutorial series focused on memory bugs and control flow.
+ 
+* [pwn.college](https://pwn.college/)
+  -> Hands-on platform for learning memory corruption, shellcoding, and RE fundamentals.
 
 ### Applied Reverse Engineering
 * [wetw0rk](https://wetw0rk.github.io/)
