@@ -40,7 +40,7 @@ Try to replicate a malware behavior.
 * Are there alternative techniques?
 * Can we replicate the API usage?
 
-## Reverse Engineering and Pwn
+## Reverse Engineering and Pwn Resources
 ### Foundational Learning
 * [OpenSecurityTraining2 – x86_64 Assembly](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about)
   -> Industry-standard course for understanding assembly, memory models, and the architecture behind reverse engineering.
@@ -76,8 +76,8 @@ Challenge-based platforms and exercises to reinforce your skills.
 * [PicoCTF](https://picoctf.org/)
 * [Exploit Education](https://exploit.education/)
 
-## Notable Resources
-Trusted tools, references, and learning hubs in malware and reverse engineering.
+## Malware Resources
+Trusted tools, references, and learning hubs in malware
 
 * [Lseqt – YouTube Channel](https://www.youtube.com/@Lsecqt)
 * [cr0w – YouTube](https://www.youtube.com/@crr0ww)
