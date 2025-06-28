@@ -10,7 +10,6 @@
 * x64 Assembly
 
   * TryHackMe
-  * [post2](https://p.ost2.dev)
   * [Godbolt Compiler Explorer](https://godbolt.org/)
 * Learn to use debuggers (e.g., x64dbg)
 
@@ -30,8 +29,8 @@
 
 ## Reverse Engineering and Pwn
 * [pwn.college](https://pwn.college/)
-* [Reverse Engineering for Beginners](https://beginners.re/)
 * [Z0F Reverse Engineering Course](https://www.debugxp.com/posts/RECourse/)
+* [Reverse Engineering for Beginners](https://beginners.re/)
 * [Nightmare](https://guyinatuxedo.github.io/00-intro/index.html)
 * [dayzerosec Starter Guide](https://dayzerosec.com/blog/2024/07/11/getting-started-2024.html)
 * [HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
