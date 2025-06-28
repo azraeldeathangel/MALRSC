@@ -19,7 +19,7 @@ Build core knowledge around system internals, cryptography, and debugging.
 ## Windows Internals
 Deep dive into how the Windows OS works under the hood.
 
-* Use [Windows Internals Part 1](https://empyreal96.github.io/nt-info-depot/Windows-Internals-PDFs/Windows%20System%20Internals%207e%20Part%201.pdf) as a reference
+* Use [**Windows Internals Part 1**](https://empyreal96.github.io/nt-info-depot/Windows-Internals-PDFs/Windows%20System%20Internals%207e%20Part%201.pdf) as a reference
   * Focus on the first three chapters:
     * Processes
     * Handles
@@ -30,7 +30,7 @@ Understanding C is essential for anyone serious about malware development, rever
 
 > *“I personally prefer C because it maps directly to how machines work. It’s foundational in both malware development and reverse engineering. C helps you understand how exploits happen, how processes are structured, and how the Windows API is used under the hood.”*
 
-You don’t need to buy expensive courses to get started. I learned C using **Codecademy** because of how interactive and beginner-friendly it is. If you want a completely free alternative, [learn-c.org](https://www.learn-c.org/) is a great browser-based site with hands-on examples.
+You don’t need to buy expensive courses to get started. I learned C using [**Codecademy**](https://www.codecademy.com/learn/paths/c) because of how interactive and beginner-friendly it is. If you want a completely free alternative, [learn-c.org](https://www.learn-c.org/) is a great browser-based site with hands-on examples.
 
 
 ## First project
