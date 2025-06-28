@@ -81,6 +81,9 @@ Trusted tools, references, and learning hubs in malware and reverse engineering.
 * [EDR Telemetry](https://www.edr-telemetry.com/)
 * [Maldev Links by CodeXTF2](https://github.com/CodeXTF2/maldev-links)
 * [mr.d0x](https://mrd0x.com/)
+* [pre.empt](https://pre.empt.dev/)
+* [0xRick](https://0xrick.github.io/misc/c2/)
+* [Capt.Meelo](https://captmeelo.com/)
 
 ## Miscellaneous
 * [VXLab Book Archive](https://github.com/vxlabinfo/lib/tree/master)
